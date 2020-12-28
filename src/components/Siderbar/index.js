@@ -32,7 +32,7 @@ function Siderbar() {
         ></User>
       </Following>
       <InfoContainer>
-        <Links>
+        <Links margin>
           <a>Início</a>
           <a>Sobre</a>
           <a>Sala de imprensa</a>
@@ -47,10 +47,10 @@ function Siderbar() {
           <a>Diretrizes da comunidade</a>
           <a>Termos</a>
         </Links>
-        <Links>
+        <Links margin>
           <a>Privacidade</a>
         </Links>
-        <Links>
+        <Links margin>
           <a>2020 TikTok</a>
         </Links>
       </InfoContainer>

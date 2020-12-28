@@ -15,7 +15,6 @@ function Layout({children}) {
           {children}
         </ContentContainer>
       </Container>
-      <Footer/>
     </>
   );
 }
